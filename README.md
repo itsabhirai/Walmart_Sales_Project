@@ -129,12 +129,10 @@ Because the fuel prices are also depended on the seasonal changes.
 
 I Consider the Top 5 Suffering Stores Only. And listed below
  
-![Top 5 Stores](![image](![Screenshot 2024-12-13 130806](https://github.com/user-attachments/assets/0c84ef22-a582-43ea-82c9-e9bfe29ebda2)
-)
+Top 5 Stores ![Screenshot 2024-12-13 130806](https://github.com/user-attachments/assets/0c84ef22-a582-43ea-82c9-e9bfe29ebda2)
 
 ## b)	If the weekly sales show a seasonal trend, when and what could be the reason?
-![Weekly Sales Trend Component] (![image](![Screenshot 2024-12-13 130852](https://github.com/user-attachments/assets/36b8ca12-59da-4e15-ac5d-7c562c86e372)
-)
+Weekly Sales Trend Component ![Screenshot 2024-12-13 130852](https://github.com/user-attachments/assets/36b8ca12-59da-4e15-ac5d-7c562c86e372)
  
 
 
