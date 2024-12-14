@@ -195,4 +195,4 @@ Root Mean Squared Error   0.07536825631037113
 
 
 ## REFERENCES
-1.	Open AI. (n.d.). ChatGPT.
+1.	Gemini and ChatGPT.
